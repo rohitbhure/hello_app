@@ -1,7 +1,7 @@
 # hello_app
 
 Flutter based hello world application
-
+This is my first project on flutter and its an Hello world application.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
